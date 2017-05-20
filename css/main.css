@@ -1,0 +1,10 @@
+/* Agrega aquí tus estilos*/
+header {
+color: white;
+text-align: center;
+min-height: 10em;
+padding-top: 40px;
+position: relative;
+background-color: #FFFFD0;
+height: 10em;
+}
